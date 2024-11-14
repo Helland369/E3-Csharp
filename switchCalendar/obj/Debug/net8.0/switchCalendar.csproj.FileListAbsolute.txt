@@ -1,0 +1,14 @@
+/home/th/code/csharp/switchCalendar/bin/Debug/net8.0/switchCalendar
+/home/th/code/csharp/switchCalendar/bin/Debug/net8.0/switchCalendar.deps.json
+/home/th/code/csharp/switchCalendar/bin/Debug/net8.0/switchCalendar.runtimeconfig.json
+/home/th/code/csharp/switchCalendar/bin/Debug/net8.0/switchCalendar.dll
+/home/th/code/csharp/switchCalendar/bin/Debug/net8.0/switchCalendar.pdb
+/home/th/code/csharp/switchCalendar/obj/Debug/net8.0/switchCalendar.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/switchCalendar/obj/Debug/net8.0/switchCalendar.AssemblyInfoInputs.cache
+/home/th/code/csharp/switchCalendar/obj/Debug/net8.0/switchCalendar.AssemblyInfo.cs
+/home/th/code/csharp/switchCalendar/obj/Debug/net8.0/switchCalendar.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/switchCalendar/obj/Debug/net8.0/switchCalendar.dll
+/home/th/code/csharp/switchCalendar/obj/Debug/net8.0/refint/switchCalendar.dll
+/home/th/code/csharp/switchCalendar/obj/Debug/net8.0/switchCalendar.pdb
+/home/th/code/csharp/switchCalendar/obj/Debug/net8.0/switchCalendar.genruntimeconfig.cache
+/home/th/code/csharp/switchCalendar/obj/Debug/net8.0/ref/switchCalendar.dll

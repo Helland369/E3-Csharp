@@ -1,0 +1,14 @@
+/home/th/code/csharp/crocodileGame/bin/Debug/net8.0/crocodileGame
+/home/th/code/csharp/crocodileGame/bin/Debug/net8.0/crocodileGame.deps.json
+/home/th/code/csharp/crocodileGame/bin/Debug/net8.0/crocodileGame.runtimeconfig.json
+/home/th/code/csharp/crocodileGame/bin/Debug/net8.0/crocodileGame.dll
+/home/th/code/csharp/crocodileGame/bin/Debug/net8.0/crocodileGame.pdb
+/home/th/code/csharp/crocodileGame/obj/Debug/net8.0/crocodileGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/crocodileGame/obj/Debug/net8.0/crocodileGame.AssemblyInfoInputs.cache
+/home/th/code/csharp/crocodileGame/obj/Debug/net8.0/crocodileGame.AssemblyInfo.cs
+/home/th/code/csharp/crocodileGame/obj/Debug/net8.0/crocodileGame.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/crocodileGame/obj/Debug/net8.0/crocodileGame.dll
+/home/th/code/csharp/crocodileGame/obj/Debug/net8.0/refint/crocodileGame.dll
+/home/th/code/csharp/crocodileGame/obj/Debug/net8.0/crocodileGame.pdb
+/home/th/code/csharp/crocodileGame/obj/Debug/net8.0/crocodileGame.genruntimeconfig.cache
+/home/th/code/csharp/crocodileGame/obj/Debug/net8.0/ref/crocodileGame.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gi7A++bSvH4TPdt0kBatcuL5QM8jn/a8MesuoUXa1f2m+BwYXUxAxi95DragHSJl16cnYdOi6UAPix5ZUY+F0A==",
+  "success": true,
+  "projectFilePath": "/home/th/code/csharp/crocodileGame/crocodileGame.csproj",
+  "expectedPackageFiles": [
+    "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

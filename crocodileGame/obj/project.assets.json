@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/th/code/csharp/crocodileGame/crocodileGame.csproj",
+      "projectUniqueName": "/home/th/github/E3-Csharp/crocodileGame/crocodileGame.csproj",
       "projectName": "crocodileGame",
-      "projectPath": "/home/th/code/csharp/crocodileGame/crocodileGame.csproj",
+      "projectPath": "/home/th/github/E3-Csharp/crocodileGame/crocodileGame.csproj",
       "packagesPath": "/home/th/.nuget/packages/",
-      "outputPath": "/home/th/code/csharp/crocodileGame/obj/",
+      "outputPath": "/home/th/github/E3-Csharp/crocodileGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/th/.nuget/NuGet/NuGet.Config"

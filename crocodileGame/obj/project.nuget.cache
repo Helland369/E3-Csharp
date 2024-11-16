@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gi7A++bSvH4TPdt0kBatcuL5QM8jn/a8MesuoUXa1f2m+BwYXUxAxi95DragHSJl16cnYdOi6UAPix5ZUY+F0A==",
+  "dgSpecHash": "aTK0SjAcdSSocXN1xRDHo4FLmg/E80WkhrcEFU0KRqXd9diraDWNCcwjgrpJsQ2P+x4tacXJhue4ZiTOaM+REw==",
   "success": true,
-  "projectFilePath": "/home/th/code/csharp/crocodileGame/crocodileGame.csproj",
+  "projectFilePath": "/home/th/github/E3-Csharp/crocodileGame/crocodileGame.csproj",
   "expectedPackageFiles": [
     "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
   ],

@@ -18,8 +18,10 @@ namespace crocodile
 
                 string input;
 
-                Console.WriteLine($"{randX}");
-                Console.WriteLine($"{randY}");
+                Console.WriteLine("Enter the right symbol: <, > or =");
+
+                Console.WriteLine($"{randX}_{randY}");
+
                 input = Console.ReadLine();
 
                 if (input == "<" && randX < randY) {

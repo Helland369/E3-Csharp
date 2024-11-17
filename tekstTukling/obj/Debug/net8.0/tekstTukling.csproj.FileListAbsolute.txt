@@ -1,0 +1,14 @@
+/home/th/code/csharp/tekstTukling/bin/Debug/net8.0/tekstTukling
+/home/th/code/csharp/tekstTukling/bin/Debug/net8.0/tekstTukling.deps.json
+/home/th/code/csharp/tekstTukling/bin/Debug/net8.0/tekstTukling.runtimeconfig.json
+/home/th/code/csharp/tekstTukling/bin/Debug/net8.0/tekstTukling.dll
+/home/th/code/csharp/tekstTukling/bin/Debug/net8.0/tekstTukling.pdb
+/home/th/code/csharp/tekstTukling/obj/Debug/net8.0/tekstTukling.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/tekstTukling/obj/Debug/net8.0/tekstTukling.AssemblyInfoInputs.cache
+/home/th/code/csharp/tekstTukling/obj/Debug/net8.0/tekstTukling.AssemblyInfo.cs
+/home/th/code/csharp/tekstTukling/obj/Debug/net8.0/tekstTukling.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/tekstTukling/obj/Debug/net8.0/tekstTukling.dll
+/home/th/code/csharp/tekstTukling/obj/Debug/net8.0/refint/tekstTukling.dll
+/home/th/code/csharp/tekstTukling/obj/Debug/net8.0/tekstTukling.pdb
+/home/th/code/csharp/tekstTukling/obj/Debug/net8.0/tekstTukling.genruntimeconfig.cache
+/home/th/code/csharp/tekstTukling/obj/Debug/net8.0/ref/tekstTukling.dll

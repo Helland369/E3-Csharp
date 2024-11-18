@@ -1,0 +1,14 @@
+/home/th/code/csharp/whatDoesTheCodeDo/bin/Debug/net8.0/whatDoesTheCodeDo
+/home/th/code/csharp/whatDoesTheCodeDo/bin/Debug/net8.0/whatDoesTheCodeDo.deps.json
+/home/th/code/csharp/whatDoesTheCodeDo/bin/Debug/net8.0/whatDoesTheCodeDo.runtimeconfig.json
+/home/th/code/csharp/whatDoesTheCodeDo/bin/Debug/net8.0/whatDoesTheCodeDo.dll
+/home/th/code/csharp/whatDoesTheCodeDo/bin/Debug/net8.0/whatDoesTheCodeDo.pdb
+/home/th/code/csharp/whatDoesTheCodeDo/obj/Debug/net8.0/whatDoesTheCodeDo.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/whatDoesTheCodeDo/obj/Debug/net8.0/whatDoesTheCodeDo.AssemblyInfoInputs.cache
+/home/th/code/csharp/whatDoesTheCodeDo/obj/Debug/net8.0/whatDoesTheCodeDo.AssemblyInfo.cs
+/home/th/code/csharp/whatDoesTheCodeDo/obj/Debug/net8.0/whatDoesTheCodeDo.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/whatDoesTheCodeDo/obj/Debug/net8.0/whatDoesTheCodeDo.dll
+/home/th/code/csharp/whatDoesTheCodeDo/obj/Debug/net8.0/refint/whatDoesTheCodeDo.dll
+/home/th/code/csharp/whatDoesTheCodeDo/obj/Debug/net8.0/whatDoesTheCodeDo.pdb
+/home/th/code/csharp/whatDoesTheCodeDo/obj/Debug/net8.0/whatDoesTheCodeDo.genruntimeconfig.cache
+/home/th/code/csharp/whatDoesTheCodeDo/obj/Debug/net8.0/ref/whatDoesTheCodeDo.dll

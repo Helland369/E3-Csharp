@@ -1,0 +1,14 @@
+/home/th/code/csharp/guessTheNumber/bin/Debug/net8.0/guessTheNumber
+/home/th/code/csharp/guessTheNumber/bin/Debug/net8.0/guessTheNumber.deps.json
+/home/th/code/csharp/guessTheNumber/bin/Debug/net8.0/guessTheNumber.runtimeconfig.json
+/home/th/code/csharp/guessTheNumber/bin/Debug/net8.0/guessTheNumber.dll
+/home/th/code/csharp/guessTheNumber/bin/Debug/net8.0/guessTheNumber.pdb
+/home/th/code/csharp/guessTheNumber/obj/Debug/net8.0/guessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/guessTheNumber/obj/Debug/net8.0/guessTheNumber.AssemblyInfoInputs.cache
+/home/th/code/csharp/guessTheNumber/obj/Debug/net8.0/guessTheNumber.AssemblyInfo.cs
+/home/th/code/csharp/guessTheNumber/obj/Debug/net8.0/guessTheNumber.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/guessTheNumber/obj/Debug/net8.0/guessTheNumber.dll
+/home/th/code/csharp/guessTheNumber/obj/Debug/net8.0/refint/guessTheNumber.dll
+/home/th/code/csharp/guessTheNumber/obj/Debug/net8.0/guessTheNumber.pdb
+/home/th/code/csharp/guessTheNumber/obj/Debug/net8.0/guessTheNumber.genruntimeconfig.cache
+/home/th/code/csharp/guessTheNumber/obj/Debug/net8.0/ref/guessTheNumber.dll

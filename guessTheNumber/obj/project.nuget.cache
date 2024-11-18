@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VLv+0nxDEIIcwKx2eDVU6fu1FiGGR+l3OJ2X1WTlvBU4tYb/jxDf5O//HQ67ZGAmVsAO9ewA3wYRHasXEVpYvA==",
+  "success": true,
+  "projectFilePath": "/home/th/code/csharp/guessTheNumber/guessTheNumber.csproj",
+  "expectedPackageFiles": [
+    "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

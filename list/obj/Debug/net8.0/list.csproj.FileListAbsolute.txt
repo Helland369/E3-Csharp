@@ -1,0 +1,14 @@
+/home/th/code/csharp/list/bin/Debug/net8.0/list
+/home/th/code/csharp/list/bin/Debug/net8.0/list.deps.json
+/home/th/code/csharp/list/bin/Debug/net8.0/list.runtimeconfig.json
+/home/th/code/csharp/list/bin/Debug/net8.0/list.dll
+/home/th/code/csharp/list/bin/Debug/net8.0/list.pdb
+/home/th/code/csharp/list/obj/Debug/net8.0/list.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/list/obj/Debug/net8.0/list.AssemblyInfoInputs.cache
+/home/th/code/csharp/list/obj/Debug/net8.0/list.AssemblyInfo.cs
+/home/th/code/csharp/list/obj/Debug/net8.0/list.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/list/obj/Debug/net8.0/list.dll
+/home/th/code/csharp/list/obj/Debug/net8.0/refint/list.dll
+/home/th/code/csharp/list/obj/Debug/net8.0/list.pdb
+/home/th/code/csharp/list/obj/Debug/net8.0/list.genruntimeconfig.cache
+/home/th/code/csharp/list/obj/Debug/net8.0/ref/list.dll

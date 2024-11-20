@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "78CJIV/0Uz3QW3u8nC5muVYgr0oCvF7lHumLHhzSsIKqWs1s0M0xdyMIcjJDWwHsNMtb7fHp39vAFV6sWTAz1g==",
+  "success": true,
+  "projectFilePath": "/home/th/code/csharp/noStatic/noStatic.csproj",
+  "expectedPackageFiles": [
+    "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

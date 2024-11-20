@@ -1,0 +1,14 @@
+/home/th/code/csharp/noStatic/obj/Debug/net8.0/noStatic.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/noStatic/obj/Debug/net8.0/noStatic.AssemblyInfoInputs.cache
+/home/th/code/csharp/noStatic/obj/Debug/net8.0/noStatic.AssemblyInfo.cs
+/home/th/code/csharp/noStatic/obj/Debug/net8.0/noStatic.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/noStatic/bin/Debug/net8.0/noStatic
+/home/th/code/csharp/noStatic/bin/Debug/net8.0/noStatic.deps.json
+/home/th/code/csharp/noStatic/bin/Debug/net8.0/noStatic.runtimeconfig.json
+/home/th/code/csharp/noStatic/bin/Debug/net8.0/noStatic.dll
+/home/th/code/csharp/noStatic/bin/Debug/net8.0/noStatic.pdb
+/home/th/code/csharp/noStatic/obj/Debug/net8.0/noStatic.dll
+/home/th/code/csharp/noStatic/obj/Debug/net8.0/refint/noStatic.dll
+/home/th/code/csharp/noStatic/obj/Debug/net8.0/noStatic.pdb
+/home/th/code/csharp/noStatic/obj/Debug/net8.0/noStatic.genruntimeconfig.cache
+/home/th/code/csharp/noStatic/obj/Debug/net8.0/ref/noStatic.dll

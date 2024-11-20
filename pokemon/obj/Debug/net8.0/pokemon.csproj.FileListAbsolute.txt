@@ -1,0 +1,14 @@
+/home/th/code/csharp/pokemon/bin/Debug/net8.0/pokemon
+/home/th/code/csharp/pokemon/bin/Debug/net8.0/pokemon.deps.json
+/home/th/code/csharp/pokemon/bin/Debug/net8.0/pokemon.runtimeconfig.json
+/home/th/code/csharp/pokemon/bin/Debug/net8.0/pokemon.dll
+/home/th/code/csharp/pokemon/bin/Debug/net8.0/pokemon.pdb
+/home/th/code/csharp/pokemon/obj/Debug/net8.0/pokemon.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/pokemon/obj/Debug/net8.0/pokemon.AssemblyInfoInputs.cache
+/home/th/code/csharp/pokemon/obj/Debug/net8.0/pokemon.AssemblyInfo.cs
+/home/th/code/csharp/pokemon/obj/Debug/net8.0/pokemon.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/pokemon/obj/Debug/net8.0/pokemon.dll
+/home/th/code/csharp/pokemon/obj/Debug/net8.0/refint/pokemon.dll
+/home/th/code/csharp/pokemon/obj/Debug/net8.0/pokemon.pdb
+/home/th/code/csharp/pokemon/obj/Debug/net8.0/pokemon.genruntimeconfig.cache
+/home/th/code/csharp/pokemon/obj/Debug/net8.0/ref/pokemon.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FyqJCP37RzG5KdqK3krIFLF36AV1whjzLWssN4w2Jln9WDVFBsjMsSobamAUqNbzx0QRanPTSzBwpct0m37u/Q==",
+  "success": true,
+  "projectFilePath": "/home/th/code/csharp/pokemon/pokemon.csproj",
+  "expectedPackageFiles": [
+    "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

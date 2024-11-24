@@ -1,0 +1,14 @@
+/home/th/code/csharp/studentAdminSystem/bin/Debug/net8.0/studentAdminSystem
+/home/th/code/csharp/studentAdminSystem/bin/Debug/net8.0/studentAdminSystem.deps.json
+/home/th/code/csharp/studentAdminSystem/bin/Debug/net8.0/studentAdminSystem.runtimeconfig.json
+/home/th/code/csharp/studentAdminSystem/bin/Debug/net8.0/studentAdminSystem.dll
+/home/th/code/csharp/studentAdminSystem/bin/Debug/net8.0/studentAdminSystem.pdb
+/home/th/code/csharp/studentAdminSystem/obj/Debug/net8.0/studentAdminSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/studentAdminSystem/obj/Debug/net8.0/studentAdminSystem.AssemblyInfoInputs.cache
+/home/th/code/csharp/studentAdminSystem/obj/Debug/net8.0/studentAdminSystem.AssemblyInfo.cs
+/home/th/code/csharp/studentAdminSystem/obj/Debug/net8.0/studentAdminSystem.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/studentAdminSystem/obj/Debug/net8.0/studentAdminSystem.dll
+/home/th/code/csharp/studentAdminSystem/obj/Debug/net8.0/refint/studentAdminSystem.dll
+/home/th/code/csharp/studentAdminSystem/obj/Debug/net8.0/studentAdminSystem.pdb
+/home/th/code/csharp/studentAdminSystem/obj/Debug/net8.0/studentAdminSystem.genruntimeconfig.cache
+/home/th/code/csharp/studentAdminSystem/obj/Debug/net8.0/ref/studentAdminSystem.dll

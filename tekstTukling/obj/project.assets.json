@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/th/code/csharp/tekstTukling/tekstTukling.csproj",
+      "projectUniqueName": "/home/th/github/E3-Csharp/tekstTukling/tekstTukling.csproj",
       "projectName": "tekstTukling",
-      "projectPath": "/home/th/code/csharp/tekstTukling/tekstTukling.csproj",
+      "projectPath": "/home/th/github/E3-Csharp/tekstTukling/tekstTukling.csproj",
       "packagesPath": "/home/th/.nuget/packages/",
-      "outputPath": "/home/th/code/csharp/tekstTukling/obj/",
+      "outputPath": "/home/th/github/E3-Csharp/tekstTukling/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/th/.nuget/NuGet/NuGet.Config"

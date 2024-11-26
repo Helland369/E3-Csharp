@@ -1,0 +1,14 @@
+/home/th/code/csharp/socialMedia/obj/Debug/net8.0/socialMedia.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/socialMedia/obj/Debug/net8.0/socialMedia.AssemblyInfoInputs.cache
+/home/th/code/csharp/socialMedia/obj/Debug/net8.0/socialMedia.AssemblyInfo.cs
+/home/th/code/csharp/socialMedia/obj/Debug/net8.0/socialMedia.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/socialMedia/bin/Debug/net8.0/socialMedia
+/home/th/code/csharp/socialMedia/bin/Debug/net8.0/socialMedia.deps.json
+/home/th/code/csharp/socialMedia/bin/Debug/net8.0/socialMedia.runtimeconfig.json
+/home/th/code/csharp/socialMedia/bin/Debug/net8.0/socialMedia.dll
+/home/th/code/csharp/socialMedia/bin/Debug/net8.0/socialMedia.pdb
+/home/th/code/csharp/socialMedia/obj/Debug/net8.0/socialMedia.dll
+/home/th/code/csharp/socialMedia/obj/Debug/net8.0/refint/socialMedia.dll
+/home/th/code/csharp/socialMedia/obj/Debug/net8.0/socialMedia.pdb
+/home/th/code/csharp/socialMedia/obj/Debug/net8.0/socialMedia.genruntimeconfig.cache
+/home/th/code/csharp/socialMedia/obj/Debug/net8.0/ref/socialMedia.dll

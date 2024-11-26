@@ -34,7 +34,7 @@ class Program {
         student1.grades.AddRange(new List<Grade> { grade1, grade2 });
         student2.grades.AddRange(new List<Grade> { grade3, grade4 });
         student3.grades.AddRange(new List<Grade> { grade5, grade6 });
-
+        
         student1.printStudentInfo();
         student2.printStudentInfo();
         student3.printStudentInfo();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RKhA8aUuIEN/NSwrqLLiXUSOO315YdkMhy5ufrginr5Z4X6ZuyCel26Rh+8A1VKx82IhHfyF7V1WIZM20Sl46Q==",
+  "dgSpecHash": "VUMhUTn9RkGfJux3CVc3CUOa1sfmVDvmO6cwXnNcwg3JNbdUz8jCL3MPCEsM9CwbCqGlxICt29vYdcLQK0ozyg==",
   "success": true,
-  "projectFilePath": "/home/th/code/csharp/tekstTukling/tekstTukling.csproj",
+  "projectFilePath": "/home/th/github/E3-Csharp/tekstTukling/tekstTukling.csproj",
   "expectedPackageFiles": [
     "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
   ],

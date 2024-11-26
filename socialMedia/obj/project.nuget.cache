@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fVbMz7n7yxAF5nq6AjVPWWHhuU/uK/Mb3kSdpkD4qqFWOwBD6bfmzUj2qknMw+0gHOPwGLYvHdOgTXFUat0dww==",
+  "success": true,
+  "projectFilePath": "/home/th/code/csharp/socialMedia/socialMedia.csproj",
+  "expectedPackageFiles": [
+    "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

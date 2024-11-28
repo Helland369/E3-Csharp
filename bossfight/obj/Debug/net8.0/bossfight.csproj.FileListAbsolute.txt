@@ -1,0 +1,14 @@
+/home/th/code/csharp/bossfight/bin/Debug/net8.0/bossfight
+/home/th/code/csharp/bossfight/bin/Debug/net8.0/bossfight.deps.json
+/home/th/code/csharp/bossfight/bin/Debug/net8.0/bossfight.runtimeconfig.json
+/home/th/code/csharp/bossfight/bin/Debug/net8.0/bossfight.dll
+/home/th/code/csharp/bossfight/bin/Debug/net8.0/bossfight.pdb
+/home/th/code/csharp/bossfight/obj/Debug/net8.0/bossfight.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/bossfight/obj/Debug/net8.0/bossfight.AssemblyInfoInputs.cache
+/home/th/code/csharp/bossfight/obj/Debug/net8.0/bossfight.AssemblyInfo.cs
+/home/th/code/csharp/bossfight/obj/Debug/net8.0/bossfight.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/bossfight/obj/Debug/net8.0/bossfight.dll
+/home/th/code/csharp/bossfight/obj/Debug/net8.0/refint/bossfight.dll
+/home/th/code/csharp/bossfight/obj/Debug/net8.0/bossfight.pdb
+/home/th/code/csharp/bossfight/obj/Debug/net8.0/bossfight.genruntimeconfig.cache
+/home/th/code/csharp/bossfight/obj/Debug/net8.0/ref/bossfight.dll

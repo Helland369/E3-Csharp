@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p5bm1nfzQJEv8iww01xcB7KacpZ1TIDxPMTDORALc+spypML43hyfFV51qOSjOkEDcHX226RM1FLKmYIRNC9tA==",
+  "success": true,
+  "projectFilePath": "/home/th/code/csharp/bossfight/bossfight.csproj",
+  "expectedPackageFiles": [
+    "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

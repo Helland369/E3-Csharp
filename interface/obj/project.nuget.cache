@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Le+SuF8DBIfRW7yYif7DOu7BneiKF/pXvEpZxYJzXzHCms6CbDePKmKsQlC9DyFJKuCvW48bGkaQQrSkmo2BZg==",
+  "success": true,
+  "projectFilePath": "/home/th/code/csharp/interface/interface.csproj",
+  "expectedPackageFiles": [
+    "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

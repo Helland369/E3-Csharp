@@ -1,0 +1,14 @@
+/home/th/code/csharp/clickerGame/obj/Debug/net8.0/clickerGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/clickerGame/obj/Debug/net8.0/clickerGame.AssemblyInfoInputs.cache
+/home/th/code/csharp/clickerGame/obj/Debug/net8.0/clickerGame.AssemblyInfo.cs
+/home/th/code/csharp/clickerGame/obj/Debug/net8.0/clickerGame.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/clickerGame/bin/Debug/net8.0/clickerGame
+/home/th/code/csharp/clickerGame/bin/Debug/net8.0/clickerGame.deps.json
+/home/th/code/csharp/clickerGame/bin/Debug/net8.0/clickerGame.runtimeconfig.json
+/home/th/code/csharp/clickerGame/bin/Debug/net8.0/clickerGame.dll
+/home/th/code/csharp/clickerGame/bin/Debug/net8.0/clickerGame.pdb
+/home/th/code/csharp/clickerGame/obj/Debug/net8.0/clickerGame.dll
+/home/th/code/csharp/clickerGame/obj/Debug/net8.0/refint/clickerGame.dll
+/home/th/code/csharp/clickerGame/obj/Debug/net8.0/clickerGame.pdb
+/home/th/code/csharp/clickerGame/obj/Debug/net8.0/clickerGame.genruntimeconfig.cache
+/home/th/code/csharp/clickerGame/obj/Debug/net8.0/ref/clickerGame.dll

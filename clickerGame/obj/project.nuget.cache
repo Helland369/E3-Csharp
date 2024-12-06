@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KTtCIziHSuF8H3R33XnRoCk86izABOOtliYS3UxX5pshLPc/wICg4HA4iGr30Pn/8a1MuMvgJFxvB0UQEAOBuQ==",
+  "success": true,
+  "projectFilePath": "/home/th/code/csharp/clickerGame/clickerGame.csproj",
+  "expectedPackageFiles": [
+    "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/home/th/code/csharp/codeAlong/bin/Debug/net8.0/codeAlong
+/home/th/code/csharp/codeAlong/bin/Debug/net8.0/codeAlong.deps.json
+/home/th/code/csharp/codeAlong/bin/Debug/net8.0/codeAlong.runtimeconfig.json
+/home/th/code/csharp/codeAlong/bin/Debug/net8.0/codeAlong.dll
+/home/th/code/csharp/codeAlong/bin/Debug/net8.0/codeAlong.pdb
+/home/th/code/csharp/codeAlong/obj/Debug/net8.0/codeAlong.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/codeAlong/obj/Debug/net8.0/codeAlong.AssemblyInfoInputs.cache
+/home/th/code/csharp/codeAlong/obj/Debug/net8.0/codeAlong.AssemblyInfo.cs
+/home/th/code/csharp/codeAlong/obj/Debug/net8.0/codeAlong.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/codeAlong/obj/Debug/net8.0/codeAlong.dll
+/home/th/code/csharp/codeAlong/obj/Debug/net8.0/refint/codeAlong.dll
+/home/th/code/csharp/codeAlong/obj/Debug/net8.0/codeAlong.pdb
+/home/th/code/csharp/codeAlong/obj/Debug/net8.0/codeAlong.genruntimeconfig.cache
+/home/th/code/csharp/codeAlong/obj/Debug/net8.0/ref/codeAlong.dll

@@ -1,0 +1,14 @@
+/home/th/code/csharp/storageSystem/bin/Debug/net8.0/storageSystem
+/home/th/code/csharp/storageSystem/bin/Debug/net8.0/storageSystem.deps.json
+/home/th/code/csharp/storageSystem/bin/Debug/net8.0/storageSystem.runtimeconfig.json
+/home/th/code/csharp/storageSystem/bin/Debug/net8.0/storageSystem.dll
+/home/th/code/csharp/storageSystem/bin/Debug/net8.0/storageSystem.pdb
+/home/th/code/csharp/storageSystem/obj/Debug/net8.0/storageSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/storageSystem/obj/Debug/net8.0/storageSystem.AssemblyInfoInputs.cache
+/home/th/code/csharp/storageSystem/obj/Debug/net8.0/storageSystem.AssemblyInfo.cs
+/home/th/code/csharp/storageSystem/obj/Debug/net8.0/storageSystem.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/storageSystem/obj/Debug/net8.0/storageSystem.dll
+/home/th/code/csharp/storageSystem/obj/Debug/net8.0/refint/storageSystem.dll
+/home/th/code/csharp/storageSystem/obj/Debug/net8.0/storageSystem.pdb
+/home/th/code/csharp/storageSystem/obj/Debug/net8.0/storageSystem.genruntimeconfig.cache
+/home/th/code/csharp/storageSystem/obj/Debug/net8.0/ref/storageSystem.dll

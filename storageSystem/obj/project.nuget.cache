@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8RxOYVoVqaxBZAf9+F6uqpLs1DUNQoUZvXD9I2i6NrVOCtRgqnrBdam66/rFsXikZa6/aTetNqK/qtyv6E+wnQ==",
+  "success": true,
+  "projectFilePath": "/home/th/code/csharp/storageSystem/storageSystem.csproj",
+  "expectedPackageFiles": [
+    "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

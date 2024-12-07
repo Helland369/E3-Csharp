@@ -41,7 +41,7 @@ namespace storageSystem
             Console.Write("Write PLU code for food item\n");
             _plu = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Write expiration date for food item");
+            Console.Write("Write expiration date for food item\n");
             _additionalInfo = Console.ReadLine();
 
             this.products.Add(new Food(_name, _price, _productNum, _plu, _additionalInfo));
@@ -63,7 +63,7 @@ namespace storageSystem
             Console.Write("Write PLU code for clothes item\n");
             _plu = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Write the size of the clothes item");
+            Console.Write("Write the size of the clothes item\n");
             _additionalInfo = Console.ReadLine();
 
             this.products.Add(new Clothes(_name, _price, _productNum, _plu, _additionalInfo));
@@ -85,41 +85,11 @@ namespace storageSystem
             Console.Write("Write PLU code for electronics item\n");
             _plu = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Write the warranty for the electronics item");
+            Console.Write("Write the warranty for the electronics item\n");
             _additionalInfo = Console.ReadLine();
 
             this.products.Add(new Electronics(_name, _price, _productNum, _plu, _additionalInfo));
         }
-
-        // public void addItem()
-        // {
-
-        //     //while (choice != 0)
-        //     //{
-        //         Console.WriteLine("### Choose the item you want to add ###");
-
-        //         Console.WriteLine("[1] Add food\n[2] Add clothes\n[3] Add Electronics");
-
-        //         switch (choice)
-        //         {
-        //             case 0:
-        //                 return;
-        //                 break;
-        //             case 1:
-        //                 addFood();
-        //                 break;
-        //             case 2:
-        //                 addClothes();
-        //                 break;
-        //             case 3:
-        //                 addElectronics();
-        //                 break;
-        //             default:
-        //                 Console.WriteLine("Invalid input!!");
-        //                 break;
-        //         }
-        //         //}
-        // }
 
         public void removeItem()
         {
@@ -127,25 +97,19 @@ namespace storageSystem
 
             for (int i = 0; i < products.Count; i++)
             {
-                Console.WriteLine($"Name: {products[i].name}\n" +
+                Console.WriteLine($"INDEX: [{i}]\nName: {products[i].name}\n" +
                                   $"Price: {products[i].price}\n" +
                                   $"Product number: {products[i].productNum}\n" +
                                   $"PLU: {products[i].plu}\n");
             }
 
-            Console.WriteLine("Write the PLU code of the item you want to delet");
+            Console.WriteLine("Write the number marked as INDEX to delete a item");
 
-            var choise = Convert.ToInt32(Console.ReadLine());
-            // string choise = Console.ReadLine();
+            var choise = Console.ReadLine();
 
-            var index = products.FindIndex(p => p.plu == choice);
+            int x = Convert.ToInt32(choise);
 
-            if (index > 0)
-            {
-                products.RemoveAt(index);
-            }
-
-            //products.Remove(choice);
+            products.RemoveAt(x);
 
             for (int i = 0; i < products.Count; i++)
             {

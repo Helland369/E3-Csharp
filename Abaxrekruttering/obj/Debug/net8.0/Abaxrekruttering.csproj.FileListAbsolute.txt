@@ -1,0 +1,14 @@
+/home/th/code/csharp/Abaxrekruttering/bin/Debug/net8.0/Abaxrekruttering
+/home/th/code/csharp/Abaxrekruttering/bin/Debug/net8.0/Abaxrekruttering.deps.json
+/home/th/code/csharp/Abaxrekruttering/bin/Debug/net8.0/Abaxrekruttering.runtimeconfig.json
+/home/th/code/csharp/Abaxrekruttering/bin/Debug/net8.0/Abaxrekruttering.dll
+/home/th/code/csharp/Abaxrekruttering/bin/Debug/net8.0/Abaxrekruttering.pdb
+/home/th/code/csharp/Abaxrekruttering/obj/Debug/net8.0/Abaxrekruttering.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/Abaxrekruttering/obj/Debug/net8.0/Abaxrekruttering.AssemblyInfoInputs.cache
+/home/th/code/csharp/Abaxrekruttering/obj/Debug/net8.0/Abaxrekruttering.AssemblyInfo.cs
+/home/th/code/csharp/Abaxrekruttering/obj/Debug/net8.0/Abaxrekruttering.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/Abaxrekruttering/obj/Debug/net8.0/Abaxrekruttering.dll
+/home/th/code/csharp/Abaxrekruttering/obj/Debug/net8.0/refint/Abaxrekruttering.dll
+/home/th/code/csharp/Abaxrekruttering/obj/Debug/net8.0/Abaxrekruttering.pdb
+/home/th/code/csharp/Abaxrekruttering/obj/Debug/net8.0/Abaxrekruttering.genruntimeconfig.cache
+/home/th/code/csharp/Abaxrekruttering/obj/Debug/net8.0/ref/Abaxrekruttering.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nEWiDGsAhaDU+ZpFDKXlJiU38mZsymoALeVb9QfOBuucBZ9djfnmY9NeCX5fuvKzwTjfLpyApiN1h/VNQuqIIQ==",
+  "success": true,
+  "projectFilePath": "/home/th/code/csharp/Abaxrekruttering/Abaxrekruttering.csproj",
+  "expectedPackageFiles": [
+    "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

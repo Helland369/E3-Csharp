@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1lo7amAs/XauwrW6x+6JIitQJa6wGR9jFwcoTiHBqFFZLJG2tWsGyNWymEWRWnCk7uiGYDWccICgGjY+xHbTIQ==",
+  "success": true,
+  "projectFilePath": "/home/th/code/csharp/ShapeControllSystem/FormControllSystem.csproj",
+  "expectedPackageFiles": [
+    "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

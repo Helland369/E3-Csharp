@@ -61,21 +61,12 @@ namespace StorageSystemTwo {
                     case 0:
                         return;
                     case 1:
-                        //addProductPrice("food");
-                        //addProductName("food");
-                        //addProductAditionalText("food","expiration date");
                         productList.Add(new Food(addProductPrice("food"),addProductName("food"),addProductAditionalText("food","expiration date")));
                         break;
                     case 2:
-                        //addProductPrice("clothes");
-                        //addProductName("clothes");
-                        //addProductAditionalText("clothes","size");
                         productList.Add(new Clothes(addProductPrice("clothes"),addProductName("clothes"),addProductAditionalText("clothes","size")));
                         break;
                     case 3:
-                        //addProductPrice("electronics");
-                        //addProductName("electronics");
-                        //addProductAditionalText("electronics","warranty");
                         productList.Add(new Electronics(addProductPrice("electronics"), addProductName("electronics"),addProductAditionalText("electronics","warranty")));
                         break;
                     default:

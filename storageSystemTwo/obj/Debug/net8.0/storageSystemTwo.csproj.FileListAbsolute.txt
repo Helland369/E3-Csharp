@@ -1,0 +1,14 @@
+/home/th/code/csharp/storageSystemTwo/bin/Debug/net8.0/storageSystemTwo
+/home/th/code/csharp/storageSystemTwo/bin/Debug/net8.0/storageSystemTwo.deps.json
+/home/th/code/csharp/storageSystemTwo/bin/Debug/net8.0/storageSystemTwo.runtimeconfig.json
+/home/th/code/csharp/storageSystemTwo/bin/Debug/net8.0/storageSystemTwo.dll
+/home/th/code/csharp/storageSystemTwo/bin/Debug/net8.0/storageSystemTwo.pdb
+/home/th/code/csharp/storageSystemTwo/obj/Debug/net8.0/storageSystemTwo.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/storageSystemTwo/obj/Debug/net8.0/storageSystemTwo.AssemblyInfoInputs.cache
+/home/th/code/csharp/storageSystemTwo/obj/Debug/net8.0/storageSystemTwo.AssemblyInfo.cs
+/home/th/code/csharp/storageSystemTwo/obj/Debug/net8.0/storageSystemTwo.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/storageSystemTwo/obj/Debug/net8.0/storageSystemTwo.dll
+/home/th/code/csharp/storageSystemTwo/obj/Debug/net8.0/refint/storageSystemTwo.dll
+/home/th/code/csharp/storageSystemTwo/obj/Debug/net8.0/storageSystemTwo.pdb
+/home/th/code/csharp/storageSystemTwo/obj/Debug/net8.0/storageSystemTwo.genruntimeconfig.cache
+/home/th/code/csharp/storageSystemTwo/obj/Debug/net8.0/ref/storageSystemTwo.dll

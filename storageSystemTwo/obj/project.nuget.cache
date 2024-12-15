@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BmxXzcJjTLrPDnqIK4uI1BIKPTwJiixZ1CWl6jPpK6dt6POQ9tQ9FY0TuZ6ZOKndTgFLeMxZVwx2DVt7zI2/kA==",
+  "success": true,
+  "projectFilePath": "/home/th/code/csharp/storageSystemTwo/storageSystemTwo.csproj",
+  "expectedPackageFiles": [
+    "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

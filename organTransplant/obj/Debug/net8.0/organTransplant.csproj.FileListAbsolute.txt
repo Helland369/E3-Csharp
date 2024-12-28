@@ -1,0 +1,14 @@
+/home/th/code/csharp/organTransplant/obj/Debug/net8.0/organTransplant.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/organTransplant/obj/Debug/net8.0/organTransplant.AssemblyInfoInputs.cache
+/home/th/code/csharp/organTransplant/obj/Debug/net8.0/organTransplant.AssemblyInfo.cs
+/home/th/code/csharp/organTransplant/obj/Debug/net8.0/organTransplant.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/organTransplant/bin/Debug/net8.0/organTransplant
+/home/th/code/csharp/organTransplant/bin/Debug/net8.0/organTransplant.deps.json
+/home/th/code/csharp/organTransplant/bin/Debug/net8.0/organTransplant.runtimeconfig.json
+/home/th/code/csharp/organTransplant/bin/Debug/net8.0/organTransplant.dll
+/home/th/code/csharp/organTransplant/bin/Debug/net8.0/organTransplant.pdb
+/home/th/code/csharp/organTransplant/obj/Debug/net8.0/organTransplant.dll
+/home/th/code/csharp/organTransplant/obj/Debug/net8.0/refint/organTransplant.dll
+/home/th/code/csharp/organTransplant/obj/Debug/net8.0/organTransplant.pdb
+/home/th/code/csharp/organTransplant/obj/Debug/net8.0/organTransplant.genruntimeconfig.cache
+/home/th/code/csharp/organTransplant/obj/Debug/net8.0/ref/organTransplant.dll

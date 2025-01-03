@@ -1,0 +1,14 @@
+/home/th/code/csharp/ShapeControllSystem/bin/Debug/net8.0/ShapeControllSystem
+/home/th/code/csharp/ShapeControllSystem/bin/Debug/net8.0/ShapeControllSystem.deps.json
+/home/th/code/csharp/ShapeControllSystem/bin/Debug/net8.0/ShapeControllSystem.runtimeconfig.json
+/home/th/code/csharp/ShapeControllSystem/bin/Debug/net8.0/ShapeControllSystem.dll
+/home/th/code/csharp/ShapeControllSystem/bin/Debug/net8.0/ShapeControllSystem.pdb
+/home/th/code/csharp/ShapeControllSystem/obj/Debug/net8.0/ShapeControllSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/ShapeControllSystem/obj/Debug/net8.0/ShapeControllSystem.AssemblyInfoInputs.cache
+/home/th/code/csharp/ShapeControllSystem/obj/Debug/net8.0/ShapeControllSystem.AssemblyInfo.cs
+/home/th/code/csharp/ShapeControllSystem/obj/Debug/net8.0/ShapeControllSystem.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/ShapeControllSystem/obj/Debug/net8.0/ShapeControllSystem.dll
+/home/th/code/csharp/ShapeControllSystem/obj/Debug/net8.0/refint/ShapeControllSystem.dll
+/home/th/code/csharp/ShapeControllSystem/obj/Debug/net8.0/ShapeControllSystem.pdb
+/home/th/code/csharp/ShapeControllSystem/obj/Debug/net8.0/ShapeControllSystem.genruntimeconfig.cache
+/home/th/code/csharp/ShapeControllSystem/obj/Debug/net8.0/ref/ShapeControllSystem.dll

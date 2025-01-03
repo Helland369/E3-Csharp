@@ -1,0 +1,14 @@
+/home/th/code/csharp/repetisjon/studentAdmin/bin/Debug/net8.0/studentAdmin
+/home/th/code/csharp/repetisjon/studentAdmin/bin/Debug/net8.0/studentAdmin.deps.json
+/home/th/code/csharp/repetisjon/studentAdmin/bin/Debug/net8.0/studentAdmin.runtimeconfig.json
+/home/th/code/csharp/repetisjon/studentAdmin/bin/Debug/net8.0/studentAdmin.dll
+/home/th/code/csharp/repetisjon/studentAdmin/bin/Debug/net8.0/studentAdmin.pdb
+/home/th/code/csharp/repetisjon/studentAdmin/obj/Debug/net8.0/studentAdmin.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/repetisjon/studentAdmin/obj/Debug/net8.0/studentAdmin.AssemblyInfoInputs.cache
+/home/th/code/csharp/repetisjon/studentAdmin/obj/Debug/net8.0/studentAdmin.AssemblyInfo.cs
+/home/th/code/csharp/repetisjon/studentAdmin/obj/Debug/net8.0/studentAdmin.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/repetisjon/studentAdmin/obj/Debug/net8.0/studentAdmin.dll
+/home/th/code/csharp/repetisjon/studentAdmin/obj/Debug/net8.0/refint/studentAdmin.dll
+/home/th/code/csharp/repetisjon/studentAdmin/obj/Debug/net8.0/studentAdmin.pdb
+/home/th/code/csharp/repetisjon/studentAdmin/obj/Debug/net8.0/studentAdmin.genruntimeconfig.cache
+/home/th/code/csharp/repetisjon/studentAdmin/obj/Debug/net8.0/ref/studentAdmin.dll

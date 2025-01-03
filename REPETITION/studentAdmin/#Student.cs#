@@ -1,0 +1,109 @@
+namespace StudentAdmin
+{
+
+
+    class Student
+    {
+
+        private int _age, _studentID;
+        private string _name, _studyProgram;
+
+        private List<Subject> subjects = new List<Subject>();
+        private List<Grade> grades = new List<Grade>();
+        private string v1;
+        private string v2;
+        private int v3;
+        private int v4;
+
+        public Student(string name, string studyProgram, int age, int studentId, Grade grade1, Grade grade2, Grade grade3, Subject subject1, Subject subject2, Subject subject3)
+        {
+            _name = name;
+            _studyProgram = studyProgram;
+            _age = age;
+            _studentID = studentId;
+            AddGrade(grade1,grade2,grade3);
+            AddThreeSubjects(subject1,subject2,subject3);
+        }
+
+        public Student(string v1, string v2, int v3, int v4)
+        {
+            this.v1 = v1;
+            this.v2 = v2;
+            this.v3 = v3;
+            this.v4 = v4;
+        }
+
+        // get
+
+        public int getAge() { return _age; }
+
+        public int getStudentId() { return _studentID; }
+
+        public string getName() { return _name; }
+
+        public string getStudyProgram() { return _studyProgram; }
+
+        // set
+
+        public void setAge(int age) { _age = age; }
+
+        public void setStudentId(int studentId) { _studentID = studentId; }
+
+        public void setName(string name) { _name = name; }
+
+        public void setStudyProgram(string studyProgram) { _studyProgram = studyProgram; }
+
+        public void AddThreeSubjects(Subject subject1, Subject subject2, Subject subject3)
+        {
+            subjects.Add(subject1);
+            subjects.Add(subject2);
+            subjects.Add(subject3);
+        }
+
+        public void AddGrade(Grade grade1, Grade grade2, Grade grade3)
+        {
+            grades.Add(grade1);
+            grades.Add(grade2);
+            grades.Add(grade3);
+        }
+
+        public void CalculateAvarageGrade()
+        {
+
+            uint count = 1;
+            double total = 0.0;
+
+            for (int i = 0; i < grades.Count; i++)
+            {
+                total += grades[i].getGradeValue();
+                count++;
+            }
+
+            double average = total / count;
+
+            Console.WriteLine($"Average grade: {average}");
+        }
+
+        public void TotalStudyPoints()
+        {
+
+            double total = 0.0;
+
+            for (int i = 0; i < subjects.Count; i++)
+            {
+                total += subjects[i].getStudyPoints();
+            }
+
+            Console.WriteLine($"Total study points: {total}");
+        }
+
+        public void PrintStudentInfo()
+        {
+            Console.WriteLine("Student info\n" +
+                              $"Name: {_name}\n" +
+                              $"Age: {_age}\n" +
+                              $"ID: {_studentID}\n" +
+                              $"Program: {_studyProgram}\n");
+        }
+    }
+}

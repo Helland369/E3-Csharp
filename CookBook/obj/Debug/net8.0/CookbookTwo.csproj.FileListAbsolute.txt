@@ -1,0 +1,14 @@
+/home/th/code/csharp/CookbookTwo/CookbookTwo/bin/Debug/net8.0/CookbookTwo
+/home/th/code/csharp/CookbookTwo/CookbookTwo/bin/Debug/net8.0/CookbookTwo.deps.json
+/home/th/code/csharp/CookbookTwo/CookbookTwo/bin/Debug/net8.0/CookbookTwo.runtimeconfig.json
+/home/th/code/csharp/CookbookTwo/CookbookTwo/bin/Debug/net8.0/CookbookTwo.dll
+/home/th/code/csharp/CookbookTwo/CookbookTwo/bin/Debug/net8.0/CookbookTwo.pdb
+/home/th/code/csharp/CookbookTwo/CookbookTwo/obj/Debug/net8.0/CookbookTwo.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/CookbookTwo/CookbookTwo/obj/Debug/net8.0/CookbookTwo.AssemblyInfoInputs.cache
+/home/th/code/csharp/CookbookTwo/CookbookTwo/obj/Debug/net8.0/CookbookTwo.AssemblyInfo.cs
+/home/th/code/csharp/CookbookTwo/CookbookTwo/obj/Debug/net8.0/CookbookTwo.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/CookbookTwo/CookbookTwo/obj/Debug/net8.0/CookbookTwo.dll
+/home/th/code/csharp/CookbookTwo/CookbookTwo/obj/Debug/net8.0/refint/CookbookTwo.dll
+/home/th/code/csharp/CookbookTwo/CookbookTwo/obj/Debug/net8.0/CookbookTwo.pdb
+/home/th/code/csharp/CookbookTwo/CookbookTwo/obj/Debug/net8.0/CookbookTwo.genruntimeconfig.cache
+/home/th/code/csharp/CookbookTwo/CookbookTwo/obj/Debug/net8.0/ref/CookbookTwo.dll
